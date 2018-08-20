@@ -1,0 +1,2 @@
+# doubanSpider
+利用scrapy抓取豆瓣top250的电影数据
